@@ -7,8 +7,8 @@
     npm add socket.io-client
 ```
 
-## This socket application purposes is a establish with the other sockets like localhost:3000 and the other http.
-## You can set colors whatever you like, at the same time setted the other side and you can see it.
+- This socket application purposes is a establish with the other sockets like localhost:3000 and the other http.
+- You can set colors whatever you like, at the same time setted the other side and you can see it.
 
 ## Available Scripts
 
