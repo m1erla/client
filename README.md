@@ -2,6 +2,7 @@
 
 ---
 ```
+    npm install client
     npm install backend
     npm add socket.io-client
 ```
